@@ -1,22 +1,23 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
 int main(void) {
 	int i, temp, capacity, booked, room[101] = {0};
 	
-	scanf("%d %d", &capacity, &booked);
+	cin >> capacity >> booked;
 	
 	for(i = 0; i < booked; i++) {
-		scanf("%d", &temp);
+		cin >> temp;
 		room[--temp] = 1;
 	}
 	
 	if(capacity == booked)
-		printf("too late\n");
+		cout << "too late" << endl;
 	
 	else
 		for(i = 0; i < capacity; i++)
 			if(room[i] == 0) {
-				printf("%d", i + 1);
+				cout << i + 1 << endl;
 				break;
 			}
 	

@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(void) {
-	int articles, factor;
+	int a, i;
 	
-	scanf("%d %d", &articles, &factor);
+	scanf("%d %d", &a, &i);
 	
-	printf("%d\n", ((factor - 1) * articles) + 1);
+	printf("%d\n", a * (i - 1) + 1);
 	
 	return 0;
 }

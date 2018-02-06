@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 
 int main() {
 	int x, y;
@@ -13,6 +13,4 @@ int main() {
 		else
 			printf("Undecided.\n");
 	}
-	
-	return 0;
 }

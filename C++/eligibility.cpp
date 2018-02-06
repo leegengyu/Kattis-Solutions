@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 
 int main() {
 	int n, course;
@@ -20,6 +20,4 @@ int main() {
 		else
 			printf("ineligible\n");
 	}
-	
-	return 0;
 }

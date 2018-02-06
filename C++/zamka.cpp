@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include <iostream>
 #include <limits.h>
+using namespace std;
 
 int main(void) {
 	int i, min, max, sum, tempSum, tempRunning, ansMin = INT_MAX, ansMax = 0;
 	
-	scanf("%d %d %d", &min, &max, &sum);
+	cin >> min >> max >> sum;
 
 	for(i = min; i <= max; i++)	{
 		tempRunning = i;
@@ -22,9 +23,8 @@ int main(void) {
 				ansMax = i;
 		}
 	}
-	
-	printf("%d\n", ansMin);
-	printf("%d\n", ansMax);
+
+	cout << ansMin << endl << ansMax << endl;
 	
 	return 0;
 }

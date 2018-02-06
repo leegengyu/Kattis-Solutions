@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 
 int main() {
 	int n, m;
@@ -10,6 +10,4 @@ int main() {
 		printf("needs %d more %s of chicken!\n", n - m, n - m > 1 ? "pieces" : "piece");
 	else
 		printf("will have %d %s of chicken left over!\n", m - n, m - n > 1 ? "pieces" : "piece");
-	
-	return 0;
 }
