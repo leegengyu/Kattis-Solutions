@@ -74,16 +74,16 @@
 | Modulo | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/modulo.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/modulo) |
 | Mosquito Multiplication | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mosquito.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mosquito) |
 | Nasty Hacks | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/nastyhacks.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
-| Nine Knights | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nineknights) |
-| No Duplicates | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
-| Numbers On a Tree | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numbertree) |
+| Nine Knights | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/nineknights.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nineknights) |
+| No Duplicates | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/nodup.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
+| Numbers On a Tree | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/numbertree.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numbertree) |
 | Odd Gnome | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddgnome) |
-| Oddities | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
+| Oddities | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/oddities.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/oddities.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
 | Odd Man Out | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddmanout) |
-| One Chicken Per Person! | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken) |
-| Paul Eigon | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pauleigon) |
-| Permuted Arithmetic Sequence | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/permutedarithmeticsequence) |
+| One Chicken Per Person! | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/onechicken.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/onechicken.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken) |
+| Paul Eigon | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pauleigon.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pauleigon) |
+| Permuted Arithmetic Sequence | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/permutedarithmeticsequence.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/permutedarithmeticsequence) |
 | Pervasive Heart Monitor | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pervasiveheartmonitor) |
-| Pet | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
-| Pizza Crust | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pizza2) |
+| Pet | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pet.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
+| Pizza Crust | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pizza2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pizza2) |
 
