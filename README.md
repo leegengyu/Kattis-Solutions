@@ -18,7 +18,7 @@
 | Army Strength (Hard) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengthhard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengthhard) |
 | Autori | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/autori.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Backspace | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/backspace) |
-| Baloni | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baloni) |
+| Baloni | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/baloni.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baloni) |
 | Batter Up | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/batterup.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
 | Beavergnaw | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/beavergnaw.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beavergnaw) |
 | Bela | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bela.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
