@@ -34,4 +34,4 @@ int main(void) {
 		
 		printf("Case #%d: %lld\n", i, sum);
 	}
-}	
+}

@@ -1,18 +1,14 @@
 #include <stdio.h>
 
-int main(void) {
-	int temp, entries;
+int main() {
+	int n, i;
 	
-	scanf("%d", &entries);
-
-	while(entries--) {
-		scanf("%d", &temp);
+	scanf("%d", &n);
+	
+	while(n--) {
+		scanf("%d", &i);
 		
-		if(temp % 2)
-			printf("%d is odd\n", temp);
-		else
-			printf("%d is even\n", temp);
+		printf("%d is ", i);
+		(i % 2) ? printf("odd\n") : printf("even\n");
 	}
-	
-	return 0;
 }
