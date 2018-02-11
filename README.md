@@ -23,7 +23,7 @@
 | Beavergnaw | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/beavergnaw.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beavergnaw) |
 | Bela | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bela.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | Best Relay Team | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bestrelayteam.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
-| Bijele | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
+| Bijele | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bijele.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
 | Booking a Room | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/bookingaroom.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bookingaroom) |
 | Bounding Robots | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/boundingrobots.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/boundingrobots) |
 | Bus | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bus.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bus) |
@@ -75,15 +75,15 @@
 | Mosquito Multiplication | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mosquito) |
 | Nasty Hacks | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | Nine Knights | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nineknights) |
-| No Duplicates | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Numbers On a Tree | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Odd Gnome | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Oddities | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Odd Man Out | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| One Chicken Per Person! | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Paul Eigon | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Permuted Arithmetic Sequence | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Pervasive Heart Monitor | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Pet | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Pizza Crust | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
+| No Duplicates | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
+| Numbers On a Tree | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numbertree) |
+| Odd Gnome | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddgnome) |
+| Oddities | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
+| Odd Man Out | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddmanout) |
+| One Chicken Per Person! | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken) |
+| Paul Eigon | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pauleigon) |
+| Permuted Arithmetic Sequence | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/permutedarithmeticsequence) |
+| Pervasive Heart Monitor | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pervasiveheartmonitor) |
+| Pet | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
+| Pizza Crust | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pizza2) |
 
