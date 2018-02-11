@@ -42,5 +42,6 @@ int main(void) {
 		else
 			printf("%d EVEN\n", line);
 	}
+	
 	return 0;
 }

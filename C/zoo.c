@@ -82,7 +82,7 @@ int main(void) {
 					animal[j+1] = temp;
 				}
 		
-		for(j = 1; j < numtypes; j++) // why does j get occupied?????????????
+		for(j = 1; j < numtypes; j++) // why does j get occupied?
 			printf("%s | %d\n", animal[j].type, animal[j].pax);
 	}
 	return 0;
