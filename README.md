@@ -1,5 +1,17 @@
 # Kattis-Solutions
 
+I started working on Kattis problems in mid-December 2017, during the break after my first semester in university. My aim at that point in time was to retain what I've learnt for in my C programming classes (in CS1010 module) earlier in the year, and also to prepare for my next programming module (CS2040C).
+
+I found out about online judges such as Kattis and uVa as they were being used by Dr. Steven Halim (senior lecturer of NUS), who would be teaching me C++ in CS2040C. I wished I had knew about them earlier (in CS1010) because I felt that I lacked adequate practice given the limited number of practices in that module. In light of which, I had decided to publish my code on Github to share with everyone not only about the existence (and usefulness) of online judges (if you had arrived here via a search engine you should've known the former already), but more importantly the code behind the problems.
+
+Besides the basics of indentation, I place emphasis on having spaces between characters where deemed fit, not only due to readability for myself, but also those for my code (spacing it out allows me to have a clearer view too and prevents straining of eyes). At the same time, I aim to have a healthy balance with the length of the code as well, trying to keep it as short (yet readable) as possible. This forces me to think of the problems in a fresh light (how can I do this better? how can I optimise the existing algorithm?) in particular. From time to time I may re-visit old problems as I believe that new insights may be gained after working on newer problems too.
+
+I strongly recommend getting Dr. Steven Halim's Competitive Programming book (CP3), if one has some foundation of programming and is studying programming cum data structures and algorithm. After one semester of learning C language from scratch, I feel that the book has a lot to offer to everyone, including an amateur like myself. What's important is an openness to constant learning! :)
+
+I do take reference from his [website](https://cpbook.net/methodstosolve) when I am stuck at a problem for too long, or when I'm exploring other ways of solving a problem as well. The website groups problems methodically, and provides hint for virtually every problem solved by him and his brother (Dr. Felix Halim) on Kattis and uVa online judge, which I find to be extremely helpful for learning.
+
+(Update to the table is currently in-progress!)
+
 ## Problems
 | Problem | Languages | :link: |
 | - | - | - |
