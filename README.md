@@ -6,16 +6,16 @@
 | Aaah! | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | ABC | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/abc.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
 | ACM Contest Scoring | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/acm.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acm) |
-| A Different Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
+| A Different Problem | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/different.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | Alphabet Spam | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/alphabetspam.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 | A New Alphabet | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/anewalphabet.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
-| Another Brick in the Wall | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anotherbrick) |
+| Another Brick in the Wall | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/anotherbrick.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anotherbrick) |
 | Anthony and Diablo | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/anthonyanddiablo.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anthonyanddiablo) |
-| Ants | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ants) |
-| Apaxiaaaaaaaaaaaans! | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/apaxiaaans.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
+| Ants | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/ants.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ants) |
+| Apaxiaaaaaaaaaaaans! | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/apaxiaaans.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/apaxiaaans.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | A Real Challenge | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/areal.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/areal) |
-| Army Strength (Easy) | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengtheasy) |
-| Army Strength (Hard) | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengthhard) |
+| Army Strength (Easy) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengtheasy.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengtheasy) |
+| Army Strength (Hard) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengthhard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengthhard) |
 | Autori | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/autori.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Backspace | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/backspace) |
 | Baloni | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baloni) |
