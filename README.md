@@ -10,6 +10,8 @@ I strongly recommend getting Dr. Steven Halim's Competitive Programming book (CP
 
 I do take reference from his [website](https://cpbook.net/methodstosolve) when I am stuck at a problem for too long, or when I'm exploring other ways of solving a problem as well. The website groups problems methodically, and provides hint for virtually every problem solved by him and his brother (Dr. Felix Halim) on Kattis and uVa online judge, which I find to be extremely helpful for learning.
 
+* To be updated to README for UVa: I realised that using g++ -std=c++11 (ie compiling with a newer version of g++ compiler) means automatic inclusion of certain libraries such as algorithm, and thus, I will not include additional details (such as libaries that are included by the compiler) in my code.
+
 (Update to the table is currently in-progress!)
 
 ## Problems
