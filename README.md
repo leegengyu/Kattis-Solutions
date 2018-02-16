@@ -14,6 +14,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 * To be updated to README for UVa: I realised that using g++ -std=c++11 (ie compiling with a newer version of g++ compiler) means automatic inclusion of certain libraries such as algorithm, and thus, I will not include additional details (such as libaries that are included by the compiler) in my code.
 
 (Update to the table is currently in-progress!)
+(Note: Ants & Armystrengthhard)
 
 ## Problems
 | Problem | Languages | :link: |
