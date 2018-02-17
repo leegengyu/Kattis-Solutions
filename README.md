@@ -140,7 +140,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Stand on Zanzibar | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zanzibar.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zanzibar) |
 | Star Arrangements | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/stararrangements.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stararrangements) |
 | Statistics | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/statistics.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/statistics) |
-| Stuck In A Time Loop | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/timeloop.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
+| Stuck In A Time Loop | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/timeloop.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/timeloop.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
 | Sum Kind of Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sumkindofproblem.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumkindofproblem) |
 | Symmetric Order | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/symmetricorder.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
 | T9 Spelling | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/t9spelling.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/t9spelling) |
