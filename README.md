@@ -31,7 +31,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Apaxiaaaaaaaaaaaans! | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/apaxiaaans.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/apaxiaaans.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
 | A Real Challenge | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/areal.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/areal) |
 | Army Strength (Easy) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengtheasy.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengtheasy) |
-| Army Strength (Hard) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengthhard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengthhard) |
+| Army Strength (Hard) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengthhard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengthhard) [5th Overall]|
 | Autori | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/autori.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
 | Backspace | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/backspace) |
 | Baloni | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/baloni.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baloni) |
@@ -58,9 +58,10 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Different Distances | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/differentdistances.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/differentdistances) |
 | DRM Messages | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/drmmessages.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/drmmessages) |
 | Eligibility | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/eligibility.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/eligibility.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/eligibility) |
+| Erase Securely | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/erase.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/erase) |
 | Estimating the Area of a Circle	 | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/estimatingtheareaofacircle.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/estimatingtheareaofacircle) |
 | Event Planning | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/eventplanning.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/eventplanning) |
-| Even Up Solitaire | [C]() | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/evenup) |
+| Even Up Solitaire | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/evenup.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/evenup) |
 | Faktor | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/faktor.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/faktor.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor) |
 | Filip | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/filip.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip) |
 | FizzBuzz | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/fizzbuzz.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
