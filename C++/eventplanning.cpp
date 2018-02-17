@@ -11,13 +11,12 @@ int main() {
 		
 		for(int i = 0; i < w; i++) {
 			cin >> a;
+			
 			if(a >= n)
-				amt = min(p * n, amt);
+				amt = min(amt, n * p);
 		}
 	}
 	
-	if(amt <= b)
-		cout << amt << "\n";
-	else
-		cout << "stay home" << "\n";
+	amt <= b ? cout << amt : cout << "stay home";
+	cout << "\n";
 }
