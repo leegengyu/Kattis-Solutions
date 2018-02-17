@@ -1,5 +1,21 @@
 # Kattis-Solutions
 
+I started working on Kattis problems in mid-December 2017, during the break after my first semester in university. My aim at that point in time was to retain what I've learnt for in my C programming classes (in CS1010 module) earlier in the year, and also to prepare for my next programming module (CS2040C).
+
+I found out about online judges such as Kattis and uVa as they were being used by Dr. Steven Halim (senior lecturer of NUS), who would be teaching me C++ in CS2040C. I wished I had knew about them earlier (in CS1010) because I felt that I lacked adequate practice given the limited number of practices in that module. In light of which, I had decided to publish my code on Github to share with everyone not only about the existence (and usefulness) of online judges (if you had arrived here via a search engine you should've known the former already), but more importantly the code behind the problems.
+
+Besides the basics of indentation, I place emphasis on having spaces between characters where deemed fit, not only due to readability for myself, but also those for my code (spacing it out allows me to have a clearer view too and prevents straining of eyes). At the same time, I aim to have a healthy balance with the length of the code as well, trying to keep it as short (yet readable) as possible. This forces me to think of the problems in a fresh light (how can I do this better? how can I optimise the existing algorithm?) in particular. From time to time I may re-visit old problems as I believe that new insights may be gained after working on newer problems too.
+
+I strongly recommend getting Dr. Steven Halim's Competitive Programming book (CP3), if one has some foundation of programming and is studying programming cum data structures and algorithm. After one semester of learning C language from scratch, I feel that the book has a lot to offer to everyone, including an amateur like myself. What's important is an openness to constant learning! :)
+
+I do take reference from his [website](https://cpbook.net/methodstosolve) when I am stuck at a problem for too long, or when I'm exploring other ways of solving a problem as well. The website groups problems methodically, and provides hint for virtually every problem solved by him and his brother (Dr. Felix Halim) on Kattis and uVa online judge, which I find to be extremely helpful for learning.
+
+* As codes for these online judge questions do not require up-keeping, 'using namespace std' is used across all of them.
+* To be updated to README for UVa: I realised that using g++ -std=c++11 (ie compiling with a newer version of g++ compiler) means automatic inclusion of certain libraries such as algorithm, and thus, I will not include additional details (such as libaries that are included by the compiler) in my code.
+
+(Update to the table is currently in-progress!)
+(Note: Ants & Armystrengthhard)
+
 ## Problems
 | Problem | Languages | :link: |
 | - | - | - |
@@ -67,7 +83,7 @@
 | Left Beehind | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/leftbeehind.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/leftbeehind.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/leftbeehind) |
 | Line Them Up | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/lineup.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lineup) |
 | Mia | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/mia.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mia.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mia) |
-| Minimum Scalar Product | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/minimumscalar.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/minimumscalar) |
+| Minimum Scalar Product | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/minimumscalar.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/minimumscalar) |
 | Mirror Images | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mirror.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mirror) |
 | Mixed Fractions | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mixedfractions.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions) |
 | Mjehuric | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/mjehuric.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mjehuric.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mjehuric) |
@@ -86,60 +102,60 @@
 | Pervasive Heart Monitor | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pervasiveheartmonitor.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pervasiveheartmonitor) |
 | Pet | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pet.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet) |
 | Pizza Crust | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pizza2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pizza2) |
-| Planina | [C](https://open.kattis.com/problems/planina) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Planting Trees | [C](https://open.kattis.com/problems/plantingtrees) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Popular Vote | [C](https://open.kattis.com/problems/vote) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Pot | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Primary Register | [C](https://open.kattis.com/problems/register) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Printing Costs | [C](https://open.kattis.com/problems/printingcosts) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Ptice | [C](https://open.kattis.com/problems/ptice) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Quadrant Selection | [C](https://open.kattis.com/problems/quadrant) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Quick Brown Fox | [C](https://open.kattis.com/problems/quickbrownfox) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Quick Estimates | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Quite a Problem | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| R2 | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Railroad | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Reversed Binary Numbers | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Reversed Rot | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Riječi | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Secure Doors | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Server | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Seven Wonders | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Shopaholic | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Sibice | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Sideways Sorting | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Sierpiński Circumference | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Simon Says | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Simon Says | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Simple Addition | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Skener | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Skocimis | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Soda Surpler | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Solving for Carrots | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Sort of Sorting | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Soylent | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Spavanac | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Speed Limit | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Stacking Cups | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Stand on Zanzibar | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Star Arrangements | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Statistics | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Stuck In A Time Loop | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Sum Kind of Problem | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Symmetric Order | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| T9 Spelling | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Take Two Stones | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Tarifa | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Texture Analysis | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| The Amazing Human Cannonball | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| The Easiest Problem Is This One | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Time Travelling Temperatures | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Treasure Hunt | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Tri | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Trik | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Troll Hunt | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Un-bear-able Zoo | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Vauvau | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Volim | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Yin and Yang Stones | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
-| Zamka | [C](https://open.kattis.com/problems/pot) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/???) |
+| Planina | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/planina.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina) |
+| Planting Trees | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/plantingtrees.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/plantingtrees) |
+| Popular Vote | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/vote.cpp/) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vote) |
+| Pot | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pot.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
+| Primary Register | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/register.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/register) |
+| Printing Costs | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/printingcosts.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/printingcosts) |
+| Ptice | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/ptice.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ptice) |
+| Quadrant Selection | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quadrant.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
+| Quick Brown Fox | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quickbrownfox.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickbrownfox) |
+| Quick Estimates | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quickestimate.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickestimate) |
+| Quite a Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quiteaproblem.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quiteaproblem) |
+| R2 | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/r2.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/r2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
+| Railroad | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/railroad2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/railroad2) |
+| Reversed Binary Numbers | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/reversebinary.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reversebinary) |
+| Reversed Rot | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/reverserot.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reverserot) |
+| Riječi | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/rijeci.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/rijeci) |
+| Secure Doors | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/securedoors.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/securedoors) |
+| Server | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/server.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/server.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/server) |
+| Seven Wonders | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sevenwonders.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
+| Shopaholic | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/shopaholic.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shopaholic) |
+| Sibice | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sibice.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
+| Sideways Sorting | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sidewayssorting.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sidewayssorting) |
+| Sierpiński Circumference | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/triangle.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/triangle) |
+| Simon Says | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/simon.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simon) |
+| Simon Says | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/simonsays.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simonsays) |
+| Simple Addition | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/simpleaddition.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/simpleaddition) |
+| Skener | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/skener.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skener) |
+| Skocimis | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/skocimis.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skocimis) |
+| Soda Surpler | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sodasurpler.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sodasurpler) |
+| Solving for Carrots | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/carrots.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) |
+| Sort of Sorting | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sortofsorting.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sortofsorting) |
+| Soylent | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/soylent.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/soylent) |
+| Spavanac | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/spavanac.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac) |
+| Speed Limit | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/speedlimit.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit) |
+| Stacking Cups | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/cups.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cups) |
+| Stand on Zanzibar | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zanzibar.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zanzibar) |
+| Star Arrangements | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/stararrangements.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/stararrangements) |
+| Statistics | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/statistics.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/statistics) |
+| Stuck In A Time Loop | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/timeloop.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/timeloop.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
+| Sum Kind of Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sumkindofproblem.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumkindofproblem) |
+| Symmetric Order | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/symmetricorder.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/symmetricorder.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
+| T9 Spelling | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/t9spelling.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/t9spelling) |
+| Take Two Stones | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/twostones.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
+| Tarifa | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/tarifa.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
+| Texture Analysis | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/textureanalysis.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/textureanalysis) |
+| The Amazing Human Cannonball | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/humancannonball2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/humancannonball2) |
+| The Easiest Problem Is This One | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/easiest.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/easiest) |
+| Time Travelling Temperatures | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/temperature.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/temperature) |
+| Treasure Hunt | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/treasurehunt.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/treasurehunt) |
+| Tri | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/tri.c/) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tri) |
+| Trik | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/trik.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik) |
+| Troll Hunt | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/trollhunt.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trollhunt) |
+| Un-bear-able Zoo | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zoo.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zoo) |
+| Vauvau | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/vauvau.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vauvau) |
+| Volim | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/volim.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/volim) |
+| Yin and Yang Stones | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/yinyangstones.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
+| Zamka | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/zamka.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zamka.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
