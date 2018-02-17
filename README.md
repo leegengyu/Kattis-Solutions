@@ -83,7 +83,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Left Beehind | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/leftbeehind.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/leftbeehind.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/leftbeehind) |
 | Line Them Up | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/lineup.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lineup) |
 | Mia | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/mia.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mia.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mia) |
-| Minimum Scalar Product | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/minimumscalar.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/minimumscalar) |
+| Minimum Scalar Product | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/minimumscalar.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/minimumscalar) |
 | Mirror Images | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mirror.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mirror) |
 | Mixed Fractions | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mixedfractions.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mixedfractions) |
 | Mjehuric | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/mjehuric.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/mjehuric.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/mjehuric) |
@@ -113,13 +113,13 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Quick Brown Fox | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quickbrownfox.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickbrownfox) |
 | Quick Estimates | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quickestimate.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quickestimate) |
 | Quite a Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quiteaproblem.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quiteaproblem) |
-| R2 | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/r2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
+| R2 | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/r2.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/r2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2) |
 | Railroad | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/railroad2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/railroad2) |
 | Reversed Binary Numbers | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/reversebinary.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reversebinary) |
 | Reversed Rot | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/reverserot.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reverserot) |
 | Riječi | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/rijeci.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/rijeci) |
 | Secure Doors | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/securedoors.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/securedoors) |
-| Server | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/server.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/server) |
+| Server | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/server.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/server.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/server) |
 | Seven Wonders | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sevenwonders.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders) |
 | Shopaholic | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/shopaholic.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shopaholic) |
 | Sibice | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sibice.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice) |
@@ -142,7 +142,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Statistics | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/statistics.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/statistics) |
 | Stuck In A Time Loop | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/timeloop.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/timeloop.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop) |
 | Sum Kind of Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sumkindofproblem.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumkindofproblem) |
-| Symmetric Order | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/symmetricorder.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
+| Symmetric Order | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/symmetricorder.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/symmetricorder.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
 | T9 Spelling | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/t9spelling.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/t9spelling) |
 | Take Two Stones | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/twostones.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 | Tarifa | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/tarifa.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
@@ -158,4 +158,4 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Vauvau | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/vauvau.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vauvau) |
 | Volim | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/volim.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/volim) |
 | Yin and Yang Stones | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/yinyangstones.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
-| Zamka | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zamka.c), [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/zamka.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
+| Zamka | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/zamka.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zamka.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
