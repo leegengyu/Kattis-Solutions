@@ -67,7 +67,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | FizzBuzz | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/fizzbuzz.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 | Friday the 13th | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/friday.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/friday) |
 | Grass Seed Inc. | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/grassseed.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
-| Greedily Increasing Subsequence | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/greedilyincreasing.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/greedilyincreasing) [9th Overall] |
+| Greedily Increasing Subsequence | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/greedilyincreasing.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/greedilyincreasing) [3rd Overall] |
 | Guess the Number | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/guess.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/guess) |
 | Hanging Out on the Terrace | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/hangingout.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Height Ordering | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/height.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/height) |
