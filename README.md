@@ -18,14 +18,17 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | - | - | - |
 | Aaah! | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | ABC | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/abc.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
+| Above Average | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/aboveaverage.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | ACM Contest Scoring | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/acm.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acm) |
 | A Different Problem | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/different.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | Alphabet Spam | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/alphabetspam.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
 | A New Alphabet | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/anewalphabet.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anewalphabet) |
 | Another Brick in the Wall | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/anotherbrick.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anotherbrick) |
+| Another Candies | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/anothercandies.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anothercandies) |
 | Anthony and Diablo | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/anthonyanddiablo.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/anthonyanddiablo) |
 | Ants | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/ants.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ants) [6th Overall]|
 | Apaxiaaaaaaaaaaaans! | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/apaxiaaans.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/apaxiaaans.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans) |
+| A Rational Sequence 2 | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/rationalsequence2.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/rationalsequence2) |
 | A Real Challenge | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/areal.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/areal) |
 | Army Strength (Easy) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengtheasy.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengtheasy) |
 | Army Strength (Hard) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengthhard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengthhard) [5th Overall]|
@@ -64,9 +67,11 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | FizzBuzz | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/fizzbuzz.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 | Friday the 13th | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/friday.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/friday) |
 | Grass Seed Inc. | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/grassseed.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
+| Greedily Increasing Subsequence | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/greedilyincreasing.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/greedilyincreasing) |
 | Guess the Number | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/guess.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/guess) |
 | Hanging Out on the Terrace | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/hangingout.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Height Ordering | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/height.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/height) |
+| Heliocentric | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/heliocentric.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heliocentric) |
 | Hello World! | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/hello.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/hello.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hello) |
 | Help a PhD candidate out! | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/helpaphd.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/helpaphd) |
 | Herman | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/herman.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/herman) |
@@ -90,6 +95,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Nasty Hacks | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/nastyhacks.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks) |
 | Nine Knights | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/nineknights.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nineknights) |
 | No Duplicates | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/nodup.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nodup) |
+| Number Fun | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/numberfun.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numberfun) |
 | Numbers On a Tree | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/numbertree.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numbertree) |
 | Odd Gnome | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/oddgnome.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddgnome) |
 | Oddities | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/oddities.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/oddities.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities) |
@@ -144,6 +150,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Sum Kind of Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sumkindofproblem.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumkindofproblem) |
 | Sum of the Others | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/sumoftheothers.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumoftheothers) |
 | Symmetric Order | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/symmetricorder.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/symmetricorder.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
+| Synchronizing Lists | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/synchronizinglists.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/synchronizinglists) |
 | T9 Spelling | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/t9spelling.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/t9spelling) |
 | Take Two Stones | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/twostones.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 | Tarifa | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/tarifa.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
