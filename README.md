@@ -67,7 +67,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | FizzBuzz | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/fizzbuzz.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz) |
 | Friday the 13th | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/friday.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/friday) |
 | Grass Seed Inc. | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/grassseed.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed) |
-| Greedily Increasing Subsequence | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/greedilyincreasing.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/greedilyincreasing) |
+| Greedily Increasing Subsequence | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/greedilyincreasing.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/greedilyincreasing) [9th Overall] |
 | Guess the Number | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/guess.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/guess) |
 | Hanging Out on the Terrace | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/hangingout.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout) |
 | Height Ordering | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/height.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/height) |
@@ -150,7 +150,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Sum Kind of Problem | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sumkindofproblem.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumkindofproblem) |
 | Sum of the Others | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/sumoftheothers.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sumoftheothers) |
 | Symmetric Order | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/symmetricorder.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/symmetricorder.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/symmetricorder) |
-| Synchronizing Lists | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/synchronizinglists.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/synchronizinglists) |
+| Synchronizing Lists | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/synchronizinglists.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/synchronizinglists) [9th Overall] |
 | T9 Spelling | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/t9spelling.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/t9spelling) |
 | Take Two Stones | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/twostones.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones) |
 | Tarifa | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/tarifa.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa) |
