@@ -33,7 +33,9 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Army Strength (Easy) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengtheasy.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengtheasy) |
 | Army Strength (Hard) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/armystrengthhard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/armystrengthhard) [5th Overall]|
 | Autori | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/autori.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/autori) |
-| Backspace | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/backspace) |
+| Babelfish | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/babelfish.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/babelfish) |
+| Backspace | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/backspace.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/backspace) |
+| Bacon, Eggs, and Spam | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/baconeggsandspam.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baconeggsandspame) |
 | Baloni | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/baloni.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baloni) |
 | Batter Up | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/batterup.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
 | Beavergnaw | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/beavergnaw.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beavergnaw) |
@@ -44,6 +46,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Bounding Robots | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/boundingrobots.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/boundingrobots) |
 | Bus | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bus.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bus) |
 | Bus Numbers | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/busnumbers.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/busnumbers) |
+| Candy Division | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/candydivision.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/candydivision) |
 | Cetvrta | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/cetvrta.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
 | Character Development | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/character.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/character) |
 | Cold-puter Science | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/cold.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
