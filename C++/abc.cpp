@@ -1,15 +1,15 @@
 #include <iostream>
-#include <algorithm>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 int main() {
 	int n;
-	vector<int> v(3);
+	vector<int> v;
 	string s;
 
 	for(int i = 0; i < 3; i++)
-		cin >> v[i];
+		cin >> n, v.push_back(n);
 	
 	cin >> s;
 	
@@ -17,6 +17,7 @@ int main() {
 	
 	for(int i = 0; i < 3; i++) {
 		cout << v[s[i] - 'A'];
+		
 		if(i < 2)
 			cout << " ";
 	}
