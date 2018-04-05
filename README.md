@@ -19,6 +19,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Aaah! | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | ABC | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/abc.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/abc.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
 | Above Average | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/aboveaverage.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
+| A Classy Problem | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/classy.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/classy) |
 | ACM Contest Scoring | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/acm.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acm) |
 | A Different Problem | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/different.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
 | Alphabet Spam | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/alphabetspam.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/alphabetspam) |
@@ -38,15 +39,18 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Bacon, Eggs, and Spam | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/baconeggsandspam.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baconeggsandspame) |
 | Baloni | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/baloni.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/baloni) |
 | Batter Up | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/batterup.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/batterup) |
+| Battle Simulation | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/battlesimulation.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/battlesimulation) |
 | Beavergnaw | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/beavergnaw.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beavergnaw) |
 | Bela | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bela.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | Best Relay Team | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bestrelayteam.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
 | Bijele | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bijele.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele) |
+| Binary search tree | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/bst.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bst) |
 | Booking a Room | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/bookingaroom.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bookingaroom.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bookingaroom) |
 | Bounding Robots | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/boundingrobots.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/boundingrobots) |
 | Bus | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/bus.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bus) |
 | Bus Numbers | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/busnumbers.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/busnumbers) |
 | Candy Division | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/candydivision.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/candydivision) |
+| CD | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/cd.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cd) |
 | Cetvrta | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/cetvrta.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta) |
 | Character Development | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/character.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/character) |
 | Cold-puter Science | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/cold.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold) |
@@ -82,6 +86,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | ICPC Awards | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/icpcawards.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/icpcawards) |
 | I've Been Everywhere, Man | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/everywhere.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | Judging Moose | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/judgingmoose.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/judgingmoose.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose) |
+| Just a Minute | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/justaminute.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/justaminute) |
 | Karte | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/karte.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/karte) |
 | Kemija | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/kemija08.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kemija08) |
 | Kornislav | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/kornislav.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/kornislav.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kornislav) |
@@ -168,5 +173,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Un-bear-able Zoo | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zoo.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zoo) |
 | Vauvau | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/vauvau.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/vauvau) |
 | Volim | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/volim.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/volim) |
+| What does the fox say? | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/whatdoesthefoxsay.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whatdoesthefoxsay) |
+| Where's my Internet?? | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/wheresmyinternet.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/wheresmyinternet) |
 | Yin and Yang Stones | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/yinyangstones.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/yinyangstones) |
 | Zamka | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/zamka.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/zamka.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/zamka) |
