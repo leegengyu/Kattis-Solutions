@@ -17,7 +17,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Problem | Languages | :link: |
 | - | - | - |
 | Aaah! | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/aaah.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah) |
-| ABC | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/abc.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
+| ABC | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/abc.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/abc.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc) |
 | Above Average | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/aboveaverage.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aboveaverage) |
 | ACM Contest Scoring | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/acm.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/acm) |
 | A Different Problem | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/different.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/different) |
