@@ -1,13 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int main(void) {
-	int i, num;
+int main() {
+	int N;
 	
-	cin >> num;
+	cin >> N;
 	
-	for(i = 1; i <= num; i++)
-		cout << i << " Abracadabra" << endl;
-	
-	return 0;
+	for(int i = 1; i <= N; i++)
+		cout << i << " Abracadabra" << '\n';
 }

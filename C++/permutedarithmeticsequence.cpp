@@ -13,7 +13,7 @@ int check(vector<int> v, int m) {
 	return 1;
 }
 
-int main(void) {
+int main() {
     int i, n, m, temp;
     vector<int> v;
     
@@ -39,6 +39,4 @@ int main(void) {
 				printf("non-arithmetic\n");
 		}
     }
-    
-    return 0;
 }

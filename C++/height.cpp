@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-int main(void) {
+int main() {
 	int i, j, k, n, ht, temp, step, set_num;
 	vector<int> v;
 
@@ -31,6 +31,4 @@ int main(void) {
 
 		printf("%d %d\n", set_num, step);
 	}
-
-	return 0;
 }

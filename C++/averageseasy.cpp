@@ -1,23 +1,24 @@
-#include <cstdio>
+#include <iostream>
+using namespace std;
 
 int main() {
-	int t;
+	int T;
 	
-	scanf("%d", &t);
+	cin >> T;
 	
-	while(t--) {
+	while(T--) {
 		int ncs, ne, e, num = 0, cs[1000];
-		double avgcs = 0.0, avge = 0.0;
+		double avgcs = 0, avge = 0;
 		
-		scanf("%d %d", &ncs, &ne);
+		cin >> ncs >> ne;
 		
 		for(int i = 0; i < ncs; i++) {
-			scanf("%d", &cs[i]);
+			cin >> cs[i];
 			avgcs += cs[i] / (float)ncs;
 		}
 
 		for(int i = 0; i < ne; i++) {
-			scanf("%d", &e);
+			cin >> e;
 			avge += e / (float)ne;
 		}
 		
@@ -25,6 +26,6 @@ int main() {
 			if(cs[i] < avgcs && cs[i] > avge)
 				num++;
 			
-		printf("%d\n", num);
+		cout << num << '\n';
 	}
 }

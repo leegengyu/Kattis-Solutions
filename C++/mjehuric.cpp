@@ -2,7 +2,7 @@
 #include <algorithm>
 using namespace std;
 
-int main(void) {
+int main() {
 	int i, j, temp, loop, num[5];
 	
 	for(i = 0; i < 5; i++)
@@ -23,6 +23,4 @@ int main(void) {
 		if(!loop)
 			break;
 	}
-	
-	return 0;
 }

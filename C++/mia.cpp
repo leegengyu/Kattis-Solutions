@@ -1,33 +1,24 @@
 #include <iostream>
 using namespace std;
 
-int value(int, int);
-
-int main(void) {
-	int p1r1, p1r2, p2r1, p2r2;
-	
-	while(1) {
-		cin >> p1r1 >> p1r2 >> p2r1 >> p2r2;
-
-		if(p1r1 + p1r2 + p2r1 + p2r2 == 0)
-			break;
-		
-		if(value(p1r1, p1r2) > value(p2r1, p2r2))
-			cout << "Player 1 wins." << endl;
-		else if(value(p2r1, p2r2) > value(p1r1, p1r2))
-			cout << "Player 2 wins." << endl;
-		else
-			cout << "Tie." << endl;
-	}
-
-	return 0;
+int value(int q0, int q1) {
+	if((q0 == 1 && q1 == 2) ||  (q0 == 2 && q1 == 1))
+		return 1000;
+	else if(q0 == q1)
+		return 100 * q0;
+	else
+		return 10 * max(q0, q1) + min(q0, q1);
 }
 
-int value(int r1, int r2) {
-	if((r1 == 1 && r2 == 2) ||  (r1 == 2 && r2 == 1))
-		return 1000;
-	else if(r1 == r2)
-		return r1 * 100;
-	else
-		return 10 * max(r1, r2) + min(r1, r2);
+int main() {
+	int s0, s1, r0, r1;
+	
+	while(cin >> s0 >> s1 >> r0 >> r1, s0 || s1 || r0 || r1) {
+		if(value(s0, s1) > value(r0, r1))
+			cout << "Player 1 wins." << '\n';
+		else if(value(r0, r1) > value(s0, s1))
+			cout << "Player 2 wins." << '\n';
+		else
+			cout << "Tie." << '\n';
+	}
 }

@@ -2,11 +2,11 @@
 #include <string.h>
 
 int main(void) {
-	char able[1001], req[1001];
+	char jon[1001], doc[1001];
 	
-	scanf("%s %s", able, req);
+	scanf("%s %s", jon, doc);
 	
-	if(strcmp(able, req) > 0)
+	if(strcmp(jon, doc) > 0)
 		printf("no\n");
 	else
 		printf("go\n");

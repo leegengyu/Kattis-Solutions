@@ -1,30 +1,24 @@
 #include <iostream>
-#include <limits.h>
 using namespace std;
 
-int main(void) {
-	int i, min, max, sum, tempSum, tempRunning, ansMin = INT_MAX, ansMax = 0;
+int main() {
+	int L, D, X, ansMin = 1e9, ansMax = 0;
 	
-	cin >> min >> max >> sum;
+	cin >> L >> D >> X;
 
-	for(i = min; i <= max; i++)	{
-		tempRunning = i;
-		tempSum = 0;
+	for(int i = L; i <= D; i++)	{
+		int temp = i, sum = 0;
 		
-		while(tempRunning > 0) {
-			tempSum += tempRunning % 10;
-			tempRunning /= 10;
+		while(temp > 0) {
+			sum += temp % 10;
+			temp /= 10;
 		}
 		
-		if(tempSum == sum) {
-			if(i < ansMin)
-				ansMin = i;
-			if(i > ansMax)
-				ansMax = i;
+		if(sum == X) {
+			ansMin = min(ansMin, i);
+			ansMax = max(ansMax, i);
 		}
 	}
 
-	cout << ansMin << endl << ansMax << endl;
-	
-	return 0;
+	cout << ansMin << '\n' << ansMax << '\n';
 }

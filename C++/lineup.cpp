@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main(void) {
+int main() {
     int n, inc = 1, dec = 1;
     string s, last;
 
@@ -25,6 +25,4 @@ int main(void) {
         cout << "DECREASING" << "\n";
     else
         cout << "NEITHER" << "\n";
-
-    return 0;
 }

@@ -1,25 +1,20 @@
 #include <iostream>
 using namespace std;
 
-int main(void) {
-	int i, temp, capacity, booked, room[101] = {0};
+int main() {
+	int r, n, num, room[101] = {0};
 	
-	cin >> capacity >> booked;
+	cin >> r >> n;
 	
-	for(i = 0; i < booked; i++) {
-		cin >> temp;
-		room[--temp] = 1;
-	}
+	for(int i = 0; i < n; i++)
+		cin >> num, room[num] = 1; // 1-indexed, room[0] is unused
 	
-	if(capacity == booked)
-		cout << "too late" << endl;
-	
+	if(r == n)
+		cout << "too late" << '\n';
 	else
-		for(i = 0; i < capacity; i++)
+		for(int i = 1; i <= r; i++) 
 			if(room[i] == 0) {
-				cout << i + 1 << endl;
+				cout << i << '\n';
 				break;
 			}
-	
-	return 0;
 }

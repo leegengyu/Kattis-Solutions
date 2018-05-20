@@ -2,7 +2,7 @@
 #include <algorithm>
 using namespace std;
 
-int main(void) {
+int main() {
 	int side[4];
 	
 	cin >> side[0] >> side[1] >> side[2] >> side[3];
@@ -10,6 +10,4 @@ int main(void) {
 	sort(side, side + 4);
 
 	cout << side[0] * side[2] << '\n';
-
-	return 0;
 }

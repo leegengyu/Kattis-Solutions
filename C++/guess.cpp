@@ -4,10 +4,8 @@ using namespace std;
 
 int guess(int, int);
 
-int main(void) {
+int main() {
 	while(guess(1, 1000));
-
-	return 0;
 }
 
 int guess(int lo, int hi) {

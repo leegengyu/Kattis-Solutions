@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(void) {
+int main() {
 	int n, t, time, temp = 0, count = 0;
 	
 	cin >> n >> t;
@@ -15,6 +15,4 @@ int main(void) {
 	}
 	
 	cout << count << "\n";
-	
-	return 0;
 }

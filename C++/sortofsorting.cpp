@@ -7,9 +7,9 @@ int main() {
 	ios_base::sync_with_stdio(false), cin.tie(NULL);
 	
 	int n, limit;
-	string str;
 	
 	while(cin >> n, n) {
+		string str;
 		vector<string> name;
 		
 		for(int i = 0; i < n; i++)

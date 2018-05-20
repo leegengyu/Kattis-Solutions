@@ -1,17 +1,15 @@
 #include <iostream>
 using namespace std;
 
-int main(void) {
-	int side1, side2;
+int main() {
+	int l, r;
 	
-	cin >> side1 >> side2;
+	cin >> l >> r;
 	
-	if(side1 == 0 && side2 == 0)
-		cout << "Not a moose" << endl;
-	else if(side1 == side2)
-		cout << "Even " << 2 * side1 << endl;
+	if(l == 0 && r == 0)
+		cout << "Not a moose" << '\n';
+	else if(l == r)
+		cout << "Even " << 2 * l << '\n';
 	else
-		cout << "Odd " << 2 * max(side1, side2) << endl;
-	
-	return 0;
+		cout << "Odd " << 2 * max(l, r) << '\n';
 }

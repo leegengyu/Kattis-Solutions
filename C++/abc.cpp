@@ -5,8 +5,8 @@ using namespace std;
 
 int main() {
 	int n;
-	vector<int> v;
 	string s;
+	vector<int> v;
 
 	for(int i = 0; i < 3; i++)
 		cin >> n, v.push_back(n);
