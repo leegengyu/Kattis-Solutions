@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-	int r, n, num, room[101] = {0};
+	int r, n, num;
+	bool room[101] = {0};
 	
 	cin >> r >> n;
 	

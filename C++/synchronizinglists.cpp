@@ -21,10 +21,6 @@ inline void fastRead_int(int &x) {
 		x = -x;
 }
 
-bool cmp(pair<int,int> i, pair<int,int> j) {
-	return i.first < j.first;
-}
-
 int main(){
 	int n;
 	pair<int,int> a[5001], b[5001];
@@ -45,8 +41,13 @@ int main(){
 			b[i].second = i;
 		}
 		
-		sort(a, a + n, cmp);
-		sort(b, b + n, cmp);
+		sort(a, a + n, [](pair<int,int> i, pair<int,int> j) {
+			return i.first < j.first;
+		});
+		
+		sort(b, b + n, [](pair<int,int> i, pair<int,int> j) {
+			return i.first < j.first;
+		});
 		
 		for(int i = 0; i < n; i++)
 			c[a[i].second] = b[i].first;
