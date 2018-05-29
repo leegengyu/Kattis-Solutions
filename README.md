@@ -203,6 +203,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Texture Analysis | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/textureanalysis.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/textureanalysis) |
 | The Amazing Human Cannonball | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/humancannonball2.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/humancannonball2) |
 | The Easiest Problem Is This One | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/easiest.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/easiest) |
+| The Key to Cryptography | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/keytocrypto.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/keytocrypto) |
 | Time Travelling Temperatures | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/temperature.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/temperature) |
 | ToLower | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/tolower.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tolower) |
 | Touchscreen Keyboard | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/touchscreenkeyboard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/touchscreenkeyboard) |
