@@ -135,6 +135,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Pachyderm Peanut Packing | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/pachydermpeanutpacking.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pachydermpeanutpacking) |
 | Paradox With Averages | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/averageseasy.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averageseasy) |
 | Paradox With Averages (Hard) | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/averageshard.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/averageshard) |
+| Parking | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/parking.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/parking) |
 | Parking | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/parking2.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/parking2) |
 | Paul Eigon | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pauleigon.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pauleigon) |
 | Peragrams | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/peragrams.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/peragrams) |
