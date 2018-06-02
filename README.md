@@ -182,6 +182,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Skener | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/skener.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skener) |
 | Skocimis | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/skocimis.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/skocimis) |
 | Soda Surpler | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sodasurpler.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sodasurpler) |
+| Sok | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/sok.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sok) |
 | Solving for Carrots | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/carrots.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/carrots) |
 | Sort of Sorting | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/sortofsorting.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sortofsorting) |
 | Soylent | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/soylent.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/soylent) |
