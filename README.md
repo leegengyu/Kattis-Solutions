@@ -149,6 +149,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Pot | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/pot.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot) |
 | Primary Register | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/register.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/register) |
 | Printing Costs | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/printingcosts.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/printingcosts) |
+| Prsteni | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/prsteni.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/prsteni) |
 | Ptice | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/ptice.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ptice) |
 | Pub-lic Good | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/pubs.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pubs) |
 | Quadrant Selection | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/quadrant.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/quadrant) |
