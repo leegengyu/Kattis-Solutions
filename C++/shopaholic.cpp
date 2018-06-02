@@ -41,5 +41,9 @@ int main() {
 	for(p = 2; p < v.size(); p += 3)
 		sum += v[p];
 	
+	// alternative method: instead of sorting it in descending price, sort it in asecending price.
+	// starting index for extracting items with discount is set as: index % 3. Thereafter, same
+	// method of extracting by += 3
+	
 	printf("%lld\n", sum);
 }

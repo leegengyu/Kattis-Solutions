@@ -1,26 +1,22 @@
 #include <iostream>
+#include <vector>
 #include <algorithm>
 using namespace std;
 
 int main() {
-	int i, j, temp, loop, num[5];
+	vector<int> v(5);
 	
-	for(i = 0; i < 5; i++)
-		cin >> num[i];
+	for(int i = 0; i < 5; i++)
+		cin >> v[i];
 	
-	while(1) {
-		loop = 0;
-		for(i = 0; i < 4; i++)
-			if(num[i] > num[i + 1]) {
-				swap(num[i], num[i + 1]);
-				loop = 1;
+	while(!is_sorted(v.begin(), v.end())) {
+		for(int i = 0; i < 4; i++)
+			if(v[i] > v[i + 1]) {
+				swap(v[i], v[i + 1]);
 				
-				for(j = 0; j < 5; j++)
-					cout << num[j] << " ";
+				for(auto j : v)
+					cout << j << " ";
 				cout << '\n';
 			}
-			
-		if(!loop)
-			break;
 	}
 }

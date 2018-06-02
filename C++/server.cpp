@@ -2,15 +2,15 @@
 using namespace std;
 
 int main() {
-	int n, t, time, temp = 0, count = 0;
+	int n, T, time, temp = 0, count = 0;
 	
-	cin >> n >> t;
+	cin >> n >> T;
 	
 	while(n--) {
 		cin >> time;
 		temp += time;
 		
-		if(temp <= t)
+		if(temp <= T)
 			count++;
 	}
 	

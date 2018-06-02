@@ -4,8 +4,9 @@
 #include <stack>
 using namespace std;
 
-int main(void) {
+int main() {
 	ios::sync_with_stdio(false);
+	
 	int n, temp;
 	stack<int> l;
 
