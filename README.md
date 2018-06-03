@@ -103,6 +103,7 @@ I do take reference from his [website](https://cpbook.net/methodstosolve) when I
 | Hissing Microphone | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/hissingmicrophone.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone) |
 | I Can Guess the Data Structure! | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/guessthedatastructure.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/guessthedatastructure) |
 | ICPC Awards | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/icpcawards.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/icpcawards) |
+| Integer Lists | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/integerlists.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/integerlists) |
 | Islands | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/islands3.cpp) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/islands3) |
 | I've Been Everywhere, Man | [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/everywhere.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere) |
 | Judging Moose | [C++](https://github.com/gytkps/Kattis-Solutions/blob/master/C%2B%2B/judgingmoose.cpp), [C](https://github.com/gytkps/Kattis-Solutions/blob/master/C/judgingmoose.c) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose) |
